@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ##
   
 <div>
-  <a href="mailto:gustavocamalionti@gmail.com" target="_blank">
+  <a href="mailto:gustavocamalionti@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/-Hotmail-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/gustavocamalionti/" target="_blank">
