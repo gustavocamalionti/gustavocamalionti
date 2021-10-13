@@ -37,7 +37,7 @@
 ##
 
  <div>
-  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=gustavocamalionti&color=green" alt="alexsgross" /> <br>
+  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=gustavocamalionti&color=green" alt="gustavogross" /> <br>
  </div>  
  
  
