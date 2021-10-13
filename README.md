@@ -26,8 +26,6 @@ Here are some ideas to get you started:
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 </div>
   
-##
-  
 <div>
   <a href="mailto:gustavocamalionti@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/-Hotmail-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
@@ -36,6 +34,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
-##
 
