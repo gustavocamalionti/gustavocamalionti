@@ -36,12 +36,12 @@
  
 ##
 
- <div>
+ <!-- <div>
   <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=gustavocamalionti&color=green" alt="gustavogross" /> <br>
  </div>  
  
  
-<!--
+
 **gustavocamalionti/gustavocamalionti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
