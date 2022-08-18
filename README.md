@@ -7,7 +7,7 @@
 ## Habilidades 🚀
 <p>
     <kbd>
-        <kbd><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img align="center" alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" style="max-width:100%;"></a></kbd>
+        <kbd><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" style="max-width:100%;"></a></kbd>
         <kbd><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" style="max-width:100%;"></a></kbd>
         <kbd><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;"></a></kbd>
         <kbd><a href="https://getbootstrap.com.br/docs/4.1/getting-started/introduction/"><img align="center" alt="bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="max-width:100%;"></a></kbd>
