@@ -25,7 +25,7 @@
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavocamalionti&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 
-## Contato! 📞
+## Contato 📞
 <div>
    <a href = "mailto:gustavocamalionti@outlook.com">
      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"" target="_blank">
