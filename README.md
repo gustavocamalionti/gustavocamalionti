@@ -7,16 +7,16 @@
 ## Habilidades 🚀
 <p>
     <kbd>
-        <kbd><img align="center" alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" style="max-width:100%;"></kbd>
-        <kbd><img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" style="max-width:100%;"></kbd>
-        <kbd><img align="center" alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;"></kbd>
-        <kbd><img align="center" alt="bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="max-width:100%;"></kbd>
-        <kbd><img align="center" alt="php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="max-width:100%;"></kbd>
-        <kbd><img align="center" alt="laravel" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" style="max-width:100%;"></kbd>
-        <kbd><img align="center" alt="jquery" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" style="max-width:100%;"></kbd>
-        <kbd><img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;"></kbd>
-        <kbd><img align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" style="max-width:100%;"></kbd>
-        <kbd><img align="center" alt="trello" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" style="max-width:100%;"></kbd> 
+        <kbd><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" style="max-width:100%;"></a></kbd>
+        <kbd><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" style="max-width:100%;"></a></kbd>
+        <kbd><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;"></a></kbd>
+        <kbd><a href="https://getbootstrap.com.br/docs/4.1/getting-started/introduction/"><img align="center" alt="bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="max-width:100%;"></a></kbd>
+        <kbd><a href="https://www.php.net/docs.php"><img align="center" alt="php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="max-width:100%;"></a></kbd>
+        <kbd><a href="https://laravel.com/docs/8.x/readme"><img align="center" alt="laravel" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" style="max-width:100%;"></a></kbd>
+        <kbd><a href="https://api.jquery.com/"><img align="center" alt="jquery" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" style="max-width:100%;"></a></kbd>
+        <kbd><a href="https://docs.python.org/pt-br/3/tutorial/"><img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;"></a></kbd>
+        <kbd><a href="https://dev.mysql.com/doc/"><img align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" style="max-width:100%;"></a></kbd>
+        <kbd><a href="https://trello.com/"><img align="center" alt="trello" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" style="max-width:100%;"></a></kbd> 
     </kbd>
 </p>
    
