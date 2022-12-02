@@ -1,7 +1,7 @@
 # Olá, Mundo! <img src= "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width= "25px"> </img>
 - Indaiatuba - SP.
 - Tecnologia focada no momento: <kbd><img align="center" alt="laravel" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" style="max-width:100%;"></kbd> Framework Laravel.
-- Trabalho: Desenvolvedor Web Junior | [*HALIPAR*](https://www.halipar.com.br/) - Holding de Alimentação e Participação.
+- Trabalho: Desenvolvedor Full Stack Jr | [*HALIPAR*](https://www.halipar.com.br/) - Holding de Alimentação e Participação.
 - Faculdade: 3° Semestre de Análise e Desenvolvimento de Sistemas - [*MACKENZIE*](https://www.mackenzie.br/) | Universidade Presbiteriana Mackenzie.
 
 ## Habilidades 🚀
