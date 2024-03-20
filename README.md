@@ -2,7 +2,7 @@
 - Indaiatuba - SP.
 - Tecnologia focada no momento: <kbd><a href="https://br.vuejs.org/"><img align="center" alt="vuejs" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" style="max-width:100%;"></a></kbd> Framework Vue.Js e <kbd><a href="https://br.vuejs.org/"><img align="center" alt="vuejs" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" style="max-width:100%;"></a></kbd> Docker..
 - Trabalho: Desenvolvedor Full Stack | [*HALIPAR*](https://www.halipar.com.br/) - Holding de Alimentação e Participação (Montana, Griletto, Jin Jin e Croasonho).
-- Faculdade: 4/5* Análise e Desenvolvimento de Sistemas - [*MACKENZIE*](https://www.mackenzie.br/) | Universidade Presbiteriana Mackenzie.
+- Faculdade: Análise e Desenvolvimento de Sistemas - [*MACKENZIE*](https://www.mackenzie.br/) | Universidade Presbiteriana Mackenzie.
 
 ## Habilidades 🚀
 <p>
