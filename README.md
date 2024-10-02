@@ -21,8 +21,6 @@
 ![APIs RESTful](https://img.shields.io/badge/APIs_RESTful-000000?style=for-the-badge&logo=api&logoColor=white) 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<br>
-
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
@@ -32,21 +30,15 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
 
-<br>
-
 **Banco de Dados:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
-
-<br>
 
 **DevOps:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=jenkins&logoColor=white) 
 
-<br>
-
-**Outras Tecnologias:**  
+**Outras Tecnologias / Metodologias:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![TDD](https://img.shields.io/badge/TDD-000000?style=for-the-badge&logo=testing&logoColor=white) 
 ![Pest](https://img.shields.io/badge/Pest-000000?style=for-the-badge&logo=pest&logoColor=white) 
@@ -56,7 +48,7 @@
 
 ## Contato 📞
 
-<div align="center">
+<div align="start">
   <a href="mailto:gustavocamalionti@outlook.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
