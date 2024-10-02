@@ -4,7 +4,7 @@
 💼 Trabalho com **Laravel, PHP, HTML/CSS, JavaScript, MySQL** e outras tecnologias em uma holding de franquias.  
 💻 Focado em projetos práticos utilizando **Docker, CI/CD, TDD** e desenvolvimento com **React** e **Next.js**.
 
-## Estatísticas
+<br>
 
 <p align="center">
   <a href="https://github.com/gustavocamalionti" target="_blank">
