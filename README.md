@@ -1,7 +1,5 @@
 # Olá, Mundo! 🌍
 
-### Sou Gustavo Camalionti
-
 🎓 **Formado em Análise e Desenvolvimento de Sistemas** pela Mackenzie.  
 💼 Trabalho com **Laravel, PHP, HTML/CSS, JavaScript, MySQL** e outras tecnologias em uma holding de franquias.  
 💻 Focado em **Docker, CI/CD, TDD** e desenvolvimento com **React** e **Next.js**.
