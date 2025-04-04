@@ -24,10 +24,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-### DevOps & Deploy Contínuo  
+### DevOps & Qualidade de Entregas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-555555?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git Hooks](https://img.shields.io/badge/Git_Hooks-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Testes  
 ![TDD](https://img.shields.io/badge/TDD-555555?style=for-the-badge&logo=testinglibrary&logoColor=white)
@@ -38,7 +39,6 @@
 
 ### Versionamento & Gestão de Projeto  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Issues](https://img.shields.io/badge/Issues-F28D1A?style=for-the-badge&logo=github&logoColor=white)
 ![Milestones](https://img.shields.io/badge/Milestones-6E5494?style=for-the-badge&logo=github&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white)
