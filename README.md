@@ -1,17 +1,17 @@
 # 👋 Hello World! 
 
 - Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Presbiteriana Mackenzie.  
-- Atualmente atuo como desenvolvedor em uma holding de franquias, trabalhando com **PHP, Laravel, DOCKER(SAIL), MySQL, JavaScript, HTML/CSS** e outras stacks.  
-- Estudando e aplicando **Docker, CI/CD, TDD** e frameworks como **React** e **Next.js** em projetos práticos.
+- Atuo como desenvolvedor em uma holding de franquias, trabalhando com **PHP, Laravel, Docker (Laravel Sail), MySQL, JavaScript, HTML/CSS** e outras stacks.  
+- No momento, estou estudando e aplicando **Docker, CI/CD, TDD**, além de frameworks como **React** e **Next.js** em projetos práticos.
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### Backend
+### Backend  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&logo=api&logoColor=white) 
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-6DB33F?style=for-the-badge&logo=swagger&logoColor=white) 
 
-### Frontend
+### Frontend  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,23 +20,23 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Bancos de Dados
+### Bancos de Dados  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-### DevOps & Integração Contínua
+### DevOps & Deploy Contínuo  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-555555?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git Hooks](https://img.shields.io/badge/Git_Hooks-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Testes
-![TDD](https://img.shields.io/badge/TDD-000000?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![BDD](https://img.shields.io/badge/BDD-000000?style=for-the-badge&logo=cucumber&logoColor=white)
+### Testes  
+![TDD](https://img.shields.io/badge/TDD-555555?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![BDD](https://img.shields.io/badge/BDD-32B643?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Pest](https://img.shields.io/badge/Pest-000000?style=for-the-badge&logo=pestphp&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Laravel Dusk](https://img.shields.io/badge/Laravel_Dusk-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### Versionamento & Gestão de Projeto
+### Versionamento & Gestão de Projeto  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Issues](https://img.shields.io/badge/Issues-F28D1A?style=for-the-badge&logo=github&logoColor=white)
@@ -54,17 +54,6 @@
 
 ## 📫 Vamos conversar?
 
-<div align="start">
-  <a href="mailto:gustavocamalionti@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/gustavocamalionti/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="https://api.whatsapp.com/send?phone=5519982230726" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-</div>
-
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavocamalionti@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavocamalionti/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5519982230726)
