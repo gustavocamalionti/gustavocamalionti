@@ -1,10 +1,54 @@
-# Olá, Mundo! 🌍
+# 👋 Hello World! 
 
-🎓 **Formado em Análise e Desenvolvimento de Sistemas** pela Mackenzie.  
-💼 Trabalho com **Laravel, PHP, HTML/CSS, JavaScript, MySQL** e outras tecnologias em uma holding de franquias.  
-💻 Focado em projetos práticos utilizando **Docker, CI/CD, TDD** e desenvolvimento com **React** e **Next.js**.
-
+- Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Presbiteriana Mackenzie.  
+- Atualmente atuo como desenvolvedor em uma holding de franquias, trabalhando com **PHP, Laravel, DOCKER(SAIL), MySQL, JavaScript, HTML/CSS** e outras stacks.  
+- Estudando e aplicando **Docker, CI/CD, TDD** e frameworks como **React** e **Next.js** em projetos práticos.
 <br>
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&logo=api&logoColor=white) 
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+### Bancos de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+
+### DevOps & Integração Contínua
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git Hooks](https://img.shields.io/badge/Git_Hooks-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Testes
+![TDD](https://img.shields.io/badge/TDD-000000?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![BDD](https://img.shields.io/badge/BDD-000000?style=for-the-badge&logo=cucumber&logoColor=white)
+![Pest](https://img.shields.io/badge/Pest-000000?style=for-the-badge&logo=pestphp&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Laravel Dusk](https://img.shields.io/badge/Laravel_Dusk-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Versionamento & Gestão de Projeto
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Issues](https://img.shields.io/badge/Issues-F28D1A?style=for-the-badge&logo=github&logoColor=white)
+![Milestones](https://img.shields.io/badge/Milestones-6E5494?style=for-the-badge&logo=github&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+
+
+---
 
 <p align="center">
   <a href="https://github.com/gustavocamalionti" target="_blank">
@@ -13,44 +57,7 @@
   </a>
 </p>
 
-## Tecnologias 🚀
-
-**Backend:**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![APIs RESTful](https://img.shields.io/badge/APIs_RESTful-000000?style=for-the-badge&logo=api&logoColor=white) 
-
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
-
-**Banco de Dados:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
-
-**DevOps:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=jenkins&logoColor=white) 
-
-**Outras Tecnologias / Metodologias:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Issues](https://img.shields.io/badge/GitHub_Issues-F28D1A?style=for-the-badge&logo=github&logoColor=white)
-![Milestones](https://img.shields.io/badge/Milestones-6E5494?style=for-the-badge&logo=github&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-000000?style=for-the-badge&logo=trello&logoColor=white)
-![Pest](https://img.shields.io/badge/Pest-000000?style=for-the-badge&logo=pest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Dusk](https://img.shields.io/badge/Dusk-000000?style=for-the-badge&logo=laravel&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-000000?style=for-the-badge&logo=testing&logoColor=white)
-
-
-## Contato 📞
+## 📫 Vamos conversar?
 
 <div align="start">
   <a href="mailto:gustavocamalionti@outlook.com">
@@ -65,3 +72,4 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>
+
