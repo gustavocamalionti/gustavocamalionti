@@ -19,7 +19,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![APIs RESTful](https://img.shields.io/badge/APIs_RESTful-000000?style=for-the-badge&logo=api&logoColor=white) 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -39,12 +39,16 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=jenkins&logoColor=white) 
 
 **Outras Tecnologias / Metodologias:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![TDD](https://img.shields.io/badge/TDD-000000?style=for-the-badge&logo=testing&logoColor=white) 
-![Pest](https://img.shields.io/badge/Pest-000000?style=for-the-badge&logo=pest&logoColor=white) 
-![PHPUnit](https://img.shields.io/badge/PHPUnit-000000?style=for-the-badge&logo=phpunit&logoColor=white) 
-![Dusk](https://img.shields.io/badge/Dusk-000000?style=for-the-badge&logo=laravel&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Issues](https://img.shields.io/badge/GitHub_Issues-F28D1A?style=for-the-badge&logo=github&logoColor=white)
+![Milestones](https://img.shields.io/badge/Milestones-6E5494?style=for-the-badge&logo=github&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-000000?style=for-the-badge&logo=trello&logoColor=white)
+![Pest](https://img.shields.io/badge/Pest-000000?style=for-the-badge&logo=pest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Dusk](https://img.shields.io/badge/Dusk-000000?style=for-the-badge&logo=laravel&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-000000?style=for-the-badge&logo=testing&logoColor=white)
+
 
 ## Contato 📞
 
