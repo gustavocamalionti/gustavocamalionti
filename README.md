@@ -1,7 +1,7 @@
 # 👋 Hello World! 
 
 - Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Presbiteriana Mackenzie.  
-- Atuo como desenvolvedor em uma holding de franquias, trabalhando com **PHP, Laravel, Docker (Laravel Sail), MySQL, JavaScript, HTML/CSS** e outras stacks.  
+- Atuo como desenvolvedor em uma holding de franquias, trabalhando com **PHP, Laravel, Docker, Pipelines de CI, MySQL, JavaScript, HTML/CSS** e outras stacks.  
 - No momento, estou estudando e aplicando **Docker, CI/CD, TDD**, além de frameworks como **React** e **Next.js** em projetos práticos.
 
 ## 🛠️ Tecnologias & Ferramentas
